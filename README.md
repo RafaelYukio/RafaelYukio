@@ -1,2 +1,2 @@
 Olar
-![cha](cha.gif)
+<img src="cha.gif" alt="cha" width="200"/>
