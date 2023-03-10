@@ -1,4 +1,4 @@
-<br>#  Olar!
+#  Olar!
 ### Me chamo Rafael, formado em Eng. Elétrica, mas me encontrei na tecnologia!
 
 <p align="center">
