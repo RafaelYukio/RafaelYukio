@@ -1,6 +1,5 @@
-#  Olar!
+<br>#  Olar!
 ### Me chamo Rafael, formado em Eng. Elétrica, mas me encontrei na tecnologia!
-<br>
 
 <p align="center">
 <img src="cha.gif" alt="cha" width="200"/>
@@ -10,6 +9,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelYukio&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+____
+
+## Projetos:
+- To-do list (HTML, CSS, JavaScript):
+  - https://rafaelyukio.github.io/DEVinHouse_M1P1/to_do.html
+- Jogo de Campo Minado (React com TypeScript) (deply com GitHub Pages)
+  - https://rafaelyukio.github.io/estudos-React/
+<br>
+____
+<br>
 
 ### Estudando para ser um fullstack!
 <br>
