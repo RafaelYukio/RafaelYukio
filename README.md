@@ -22,12 +22,10 @@
 - To-do list (HTML, CSS, JavaScript) (primeiro projeto):
   - https://rafaelyukio.github.io/DEVinHouse_M1P1/to_do.html
 <br>
+
 ---------------------------------------
-<br>
 
 ### Estudando para ser um fullstack!
-
-<br>
 <div>
   <a href="https://www.linkedin.com/in/rafael-tadokoro/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
