@@ -12,7 +12,8 @@
 
 <br>
 </div>
-<hr>
+
+---------------------------------------
 
 ## Projetos:
 
@@ -21,7 +22,7 @@
 - To-do list (HTML, CSS, JavaScript) (primeiro projeto):
   - https://rafaelyukio.github.io/DEVinHouse_M1P1/to_do.html
 <br>
-<hr>
+---------------------------------------
 <br>
 
 ### Estudando para ser um fullstack!
