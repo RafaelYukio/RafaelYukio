@@ -1,11 +1,11 @@
 # Olá!
 
 ### Sobre mim:
-- Bacharel em Engenharia Elétrica pela PUC-Campinas;
-- Curso Full-Stack DEVinHouse - SENAI/SC;
-- Adoro jogos, principalmente de RPG e FPS;
-- Buscando novas soluções através de aplicações Web ou Desktop;
-- Preciso de música e café!
+- 🎓 Bacharel em Engenharia Elétrica pela PUC-Campinas;
+- 📚 Curso Full-Stack DEVinHouse - SENAI/SC;
+- 🎮 Adoro jogos, principalmente de RPG e FPS;
+- 💻 Buscando novas soluções através de aplicações Web ou Desktop;
+- 🎵 ☕ Preciso de música e café!
 
 <div align="center">
   <div>
