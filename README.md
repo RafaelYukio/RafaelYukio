@@ -15,6 +15,14 @@
 </div>
 <br>
 
+### Experiência Profissional
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,cs,dotnet&theme=light)](https://skillicons.dev)
+
+### Projetos
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,python,java,kotlin&theme=light)](https://skillicons.dev)
+
 ---------------------------------------
 
 ## Projetos:
